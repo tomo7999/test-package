@@ -1,7 +1,11 @@
 {
   "name": "test-package",
   "main": "index.js",
+  "version": "1.0.0",
+  "description": "",
   "dependencies": {
 
-  }
+  },
+  "author": "test",
+  "license": "MIT"
 }
