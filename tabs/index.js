@@ -1,1 +1,5 @@
-export const test = 'asdsadsad'
+var test = 'asdsadsad'
+
+module.exports = {
+  test: test
+}
