@@ -1,4 +1,7 @@
 {
   "name": "test-package",
-  "main": "index.js"
+  "main": "index.js",
+  "dependencies": {
+
+  }
 }
