@@ -6,6 +6,10 @@
   "dependencies": {
 
   },
+  "scripts":{
+    "build": "touch test.txt",
+    "publish": "ls"
+  },
   "author": "test",
   "license": "MIT"
 }
